@@ -11,7 +11,7 @@ Submitted by: **Pierce Medy**
     </a>
   </div>
   
-**BeReal** is an app that ... [TODO] 
+**BeReal** is an app that allows you to upload photos with a caption
 
 Time spent: **8** hours spent in total
 
