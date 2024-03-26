@@ -1,4 +1,4 @@
-# Project 5 - *BeRealPart1*
+# Project 5 - *BeReal*
 
 Submitted by: **Pierce Medy**
 
