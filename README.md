@@ -1,4 +1,4 @@
-# Project 5 - *BeReal*
+# Project 5 - *BeRealPart1*
 
 Submitted by: **Pierce Medy**
 
@@ -32,6 +32,49 @@ The following **optional** features are implemented:
 - [x] User is able to logout
 - [x] User stays logged in when app is closed and open again	
 
+
+The following **additional** features are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality!
+
+## Video Walkthrough
+
+Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+
+[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+# Project 6 - *BeRealPart2*
+
+Submitted by: **Pierce Medy**
+
+<div>
+    <a href="https://www.loom.com/share/1ede8d6e153c470a83d40fe5c7a8edf8">
+      <p>Unit 6 BeReal - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/1ede8d6e153c470a83d40fe5c7a8edf8">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1ede8d6e153c470a83d40fe5c7a8edf8-with-play.gif">
+    </a>
+  </div>
+  
+Time spent: **4** hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [x] User can launch camera to take photo instead of photo library
+- [x] User session persists when application is closed and relaunched
+- [x] Users are able to log out and return to sign in page
+- [x] Users are NOT able to see other photos until they upload their own	
+ 
+The following **optional** features are implemented:
+
+- [ ] User receive notifcation when it is time to post
+- [ ] Users can make comments and view comments in posts	
 
 The following **additional** features are implemented:
 
