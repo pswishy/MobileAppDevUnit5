@@ -3,11 +3,11 @@
 Submitted by: **Pierce Medy**
 
 <div>
-    <a href="https://www.loom.com/share/d09df8f35aea40bcb47599ef87f5bf8f">
-      <p>Unit 5 BeReal - Watch Video</p>
+    <a href="https://www.loom.com/share/dac059d4199a4fb290d2d4b8261df4ee">
+      <p>Unit 5 BeReal Resubmission  - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/d09df8f35aea40bcb47599ef87f5bf8f">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d09df8f35aea40bcb47599ef87f5bf8f-with-play.gif">
+    <a href="https://www.loom.com/share/dac059d4199a4fb290d2d4b8261df4ee">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/dac059d4199a4fb290d2d4b8261df4ee-with-play.gif">
     </a>
   </div>
   
